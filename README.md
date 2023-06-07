@@ -297,6 +297,4 @@ We designed the application to be an intuitive and simple, yet powerful way to n
 - Google Calendar
 
 ## Team
-- [George](https://github.com/tagma-1)
-- [Nick](https://github.com/nick-son)
-- [Julia](https://github.com/julia-)
+- [Deepak]
